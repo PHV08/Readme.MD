@@ -13,5 +13,5 @@
 
 
    ## Contact?
-- https://discord.com/u/961930771344523264
+- [Discord](https://discord.com/u/961930771344523264)
 - Mail - unknownphv@gmail.com
