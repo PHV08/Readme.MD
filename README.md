@@ -7,6 +7,7 @@
 # My Projects 
 [GitHub](https://github.com/PHV08/Discord-Bot) - [Discord](https://discord.gg/phvcommunity)
 - A Bot with Over 100+ Commands
+
 [Github](https://github.com/PHV08/Dicord-Ai-chatbot) - [Discord](https://discord.gg/phvcommunity)
 - A Discord AI-chatbot which doesn't require any api key
 
